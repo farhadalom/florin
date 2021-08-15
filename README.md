@@ -1,2 +1,2 @@
 # florina
- https://farhadalom.github.io/florina/
+ https://farhadalom.github.io/florin/
